@@ -2,7 +2,8 @@
 
 # DHCP (KEA)
 
-- Will provide IP addresses
+- Will provide IP addresses to each bridge
+- DHCP relay will be used to perform DORA 
 - Keeps track of systems that have recieved IP addresses 
 
 # DNS (BIND9)
